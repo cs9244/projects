@@ -16,6 +16,8 @@ Technologies Used
 Python
 Requests Library
 ExchangeRate API
+
+
 Installation
 Clone the repository:
 git clone https://github.com/cs9244/currency-converter.git
@@ -32,10 +34,16 @@ python currency_converter.py
 Available commands:
 
 list - Display available currencies
+
 rate - Get the exchange rate between two currencies
+
 convert - Convert an amount from one currency to another
+
 q - Exit the program
+
+
 Example
+
 Enter a cmd (q to quit): convert
 Enter a currency name to convert from: USD
 Enter amount: 100
