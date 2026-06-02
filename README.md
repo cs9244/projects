@@ -1,5 +1,5 @@
-# projects
-Currency Converter
+
+#Currency Converter
 
 A simple command-line currency converter built with Python. It fetches real-time exchange rates using the ExchangeRate API and allows users to:
 
